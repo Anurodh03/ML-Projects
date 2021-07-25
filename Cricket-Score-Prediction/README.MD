@@ -1,0 +1,5 @@
+- Because I enjoy cricket, this project is one of my favorite.
+- Performed EDA
+- Discovered, Which are the important factors that influence high scores, like stadium.
+- Which Team has played most number of matches
+- Building Model
