@@ -1,0 +1,8 @@
+- Classification Problem, If a person is prone to heart attack or not
+- Kaggle Competition Project.
+- Numerical Analysis & Visualizing data to find interesting results.
+- ![image](https://user-images.githubusercontent.com/32816737/126911501-4d892f79-0a7c-4af3-a528-963c94bc33c4.png)
+- Scaling the data.
+- Model Hyper-parameter tuning with pipeline.
+- Building Model and deploying it on cloud using Heroku.
+- Check the project on this link and try whether you are prone to heart attack:) https://heart-attack-p.herokuapp.com/
